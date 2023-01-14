@@ -1,0 +1,23 @@
+.first{
+  background-color: grey;
+  color: white;
+  text-align: right;
+  border: grey solid 1px;
+  font-size: 30px;
+}
+.first2{
+  background-color: lightgrey;
+  border: grey solid 1px;
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+.last{
+background-color: orange;
+border: rgb(255, 255, 255) solid 1px;
+color: white;
+text-align: center;
+font-size: 30px;
+
+}
+
